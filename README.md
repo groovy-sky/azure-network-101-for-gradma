@@ -16,6 +16,7 @@ For better understanding text is written as if it is addressed to elderly people
 
 ## Module 1: Overview <a name="module-1"></a>
 
+
 Hello there,
 
 Let's start with a simple analogy: Imagine you want to send a letter to a friend who lives in a different town. You write your letter, put it in an envelope, and drop it in your letterbox. Your local postman collects it and then it goes through various post offices and sorting centres before finally arriving at your friend's letterbox. The process of sending this letter is similar to how a network works in the world of computers and the internet.
@@ -32,34 +33,13 @@ The 'traffic' we've been talking about is chunks of data that are sent and recei
 
 In conclusion, when you access a webpage, you're essentially sending a request (like a letter) via a network of routers (like postmen), which help deliver your request to the right server (your friend) across the internet (the national postal system).
 
-## Module 2: Understanding TCP/IP <a name="module-2"></a>
-
-Your computer is part of a big group of computers, all connected together, kind of like a giant telephone line. This connection is what we call a network.
-
 ![](/img/net-explain-00.png)
 
 
-2. IP Addresses:
+## Module 2: Understanding IP <a name="module-2"></a>
 
-Every computer that uses the Internet has a special address, just like your home address. This is called an IP address. When you want to see a webpage, your computer uses this address to find the right place on the Internet.
+Every electronic device (like computer, mobile phone, smartwatches etc.)  that uses the Internet has a special address, just like your home address. This is called an IP address. When you want to see a webpage, your computer uses this address to find the right place on the Internet.
 
-3. Sending and Receiving Information:
-
-When you want to see a webpage, your computer sends a request, like sending a letter. This request is split into smaller parts, like pieces of a puzzle, to make it easier to send. These pieces are called packets.
-
-4. Routers:
-
-Imagine a router like a traffic policeman, who decides which way cars (or in this case, packets) should go. The router makes sure these packets find the best route to their destination.
-
-5. Servers:
-
-Servers are like the libraries of the Internet. When your computer sends a request to see a webpage, that request is sent to the server that holds that webpage. The server then sends the webpage back to your computer, like a librarian giving you the book you asked for.
-
-6. Protocols:
-
-Protocols are like the rules of the road on the Internet. They make sure all the computers can understand each other and that all the packets go where they're supposed to.
-
-This is a simple explanation of how your computer accesses the Internet. You don't need to remember all the details - just know that it's all about sending and receiving information, just like sending and receiving letters. And all the complicated parts are handled by your computer and the Internet, so you can just sit back and enjoy browsing your favorite websites!
 
 ## Used resources
 
@@ -68,3 +48,5 @@ https://www.svgrepo.com/svg/420363/avatar-elderly-grandma
 https://www.svgrepo.com/svg/434986/mail-box
 
 https://www.svgrepo.com/svg/283411/mailed-mail
+
+https://www.svgrepo.com/svg/420347/avatar-einstein-professor
